@@ -1,0 +1,6 @@
+name: Name Surname
+email: abcdefg@yorku.ca
+phone: 123456789
+house: Assiniboine
+apartment: 340 / 123
+webdriver: C:/Users/.../chromedriver.exe
